@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-=======
 This is First Line
 This is Second Line
->>>>>>> parent of 089cbd3 (Fourth Commit)
+This is Third Line
+This is Fourth Line
+This is Fifth Line
